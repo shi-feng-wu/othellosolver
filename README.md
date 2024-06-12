@@ -1,6 +1,6 @@
 # othellosolver
 
-Othello solver for a triangular board.
+Othello solver for a triangular board. Takes input board state and returns the coordinates to place a tile.
 
 0 = Empty
 
